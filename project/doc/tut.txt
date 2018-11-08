@@ -1,0 +1,6 @@
+https://oracle-base.com/articles/misc/top-n-queries
+https://www.geeksforgeeks.org/pseudocolumn-oracle-sql/
+http://oracletechtalk.blogspot.com/2015/09/cach-su-dung-ham-rownumber-rank-va-denserank.html
+https://stackoverflow.com/questions/174595/in-an-oracle-database-what-is-the-difference-between-rownum-and-row-number
+https://blog.jooq.org/2014/08/12/the-difference-between-row_number-rank-and-dense_rank/
+test comm
