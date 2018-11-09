@@ -1,13 +1,11 @@
 # Chuyên Đề Oracle
-## Tìm hiểu Oracle Database Security 
-
-## Môn học: Chuyên dề oracle
-## Giảng viên: Nguyễn Thị Minh Hương
-
-## hóm 03
+## Thông tin môn học
+Giảng viên: Nguyễn Thị Minh Hương
+Tên đề tài giữa kì: Tìm hiểu Oracle Database Securit
+Nhóm 03
 
 
-## Danh sách thành viên
+### Danh sách thành viên
 	1.		Nguyễn Công Trí		15130202
 	2.		Lưu Quốc Thắng		15130170
 	3.		Phạm Anh Nhật		15130127
