@@ -1,7 +1,9 @@
 # Chuyên Đề Oracle
 ## Thông tin môn học
 Giảng viên: Nguyễn Thị Minh Hương
-Tên đề tài giữa kì: Tìm hiểu Oracle Database Securit
+
+Tên đề tài giữa kì: Tìm hiểu Oracle Database Security
+
 Nhóm 03
 
 
